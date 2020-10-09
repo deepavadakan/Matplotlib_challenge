@@ -57,5 +57,5 @@ The correlation coefficient between mouse weight and average tumor volume for th
 <img src="Images/drug_comparison.png" width="400">
 
 
-4. There is a definite correlation between the mouse weight and the average tumor volume. Researchers will have to consider the weight of the mice and make sure that it is the same across the sample size to ensure that the results reflect the effect of the drug alone.
+4. There is a definite correlation between the mouse weight and the average tumor volume. Researchers will have to consider the weight of the mice across the sample size to ensure that the results reflect the effect of the drug alone.
 <img src="Images/correlation.png" width="400">
