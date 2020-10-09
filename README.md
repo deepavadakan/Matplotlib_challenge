@@ -49,11 +49,11 @@ The correlation coefficient between mouse weight and average tumor volume for th
 
 <img src="Images/mice_bar_chart.png" width="400">
 
-2. There was an almost equal distribution of male and female mice. The results of the study since there was an almost equal disribution of male and female mice.
+2. There was an almost equal distribution of male and female mice. The results of the study were not affected since there was an almost equal disribution of male and female mice.
 
 <img src="Images/mice_pie_chart.png" width="400">
 
-3. Capomulin was effective in reducing the volume of the tumor over the 45 day period. Ramicane was also equally effective, with Ramicane doing a slightly better job on average. Both drugs, reduced the tumor volume by almost the same amount. In comparison, Infuubinol and Ceftamin increased the tumor volume rather than reducing it. It would be interesting to continue the experiment to see if Capomulin and Ramicane would reduce the tumor volume and get rid of it entirely over time.
+3. Capomulin was effective in reducing the volume of the tumor over the 45 day period. Ramicane was also equally effective, with Ramicane doing a slightly better job on average. Both drugs reduced the tumor volume by almost the same amount. In comparison, Infubinol and Ceftamin increased the tumor volume rather than reducing it. It would be interesting to continue the experiment to see if Capomulin and Ramicane would reduce the tumor volume and get rid of it entirely over time.
 <img src="Images/drug_comparison.png" width="400">
 
 
