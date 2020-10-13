@@ -45,7 +45,7 @@ The correlation coefficient between mouse weight and average tumor volume for th
 
 ## Observation and Insights
 
-1. Each drug had sample sizes of over 150 mice. This is a sufficient sample size to detect the effect of the drugs on the tumor volume.
+1. Each drug had over 150 datapoints. This is a sufficient sample size to detect the effect of the drugs on the tumor volume.
 
 <img src="Images/mice_bar_chart.png" width="400">
 
